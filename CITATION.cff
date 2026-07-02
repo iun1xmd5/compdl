@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated methodology, please cite the paper below."
+type: software
+title: "Cross-Domain Convergence of Hardware-Aware Bayesian-Optimized Compact CNN-LSTM Architectures for Edge-Deployable Intrusion Detection in IoT, IIoT, and SDN"
+authors:
+  - family-names: "Kahola"
+    given-names: "Christopher"
+    affiliation: "Department of Computer Studies, Dar es Salaam Institute of Technology (DIT)"
+    # orcid: "https://orcid.org/xxxx-xxxx-xxxx-xxxx"
+version: 1.0.0
+date-released: 2026-07-02
+repository-code: "https://github.com/<your-username>/compdl"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Cross-Domain Convergence of Hardware-Aware Bayesian-Optimized Compact CNN-LSTM Architectures for Edge-Deployable Intrusion Detection in IoT, IIoT, and SDN"
+  authors:
+    - family-names: "Kahola"
+      given-names: "Christopher"
+  journal: "Knowledge-Based Systems"
+  year: 2026
+  # volume: "[fill in on acceptance]"
+  # doi: "[fill in on acceptance]"
+  status: "in-press"  # update to "published" once accepted, or remove if still under review

@@ -1,0 +1,22 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Deep learning
+tensorflow
+
+# Gradient boosting baselines (used for comparison in the scripts)
+xgboost
+lightgbm
+catboost
+
+# Class imbalance handling
+imbalanced-learn
+
+# Hyperparameter optimization
+optuna
+
+# Plotting
+matplotlib
+seaborn
